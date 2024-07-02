@@ -8,8 +8,9 @@
 - ⚡ Fun fact: Despite my non-programming academic background, I've pursued my passion for coding through various courses and open-source resources.
 
 ## 📈 GitHub Stats
+<p align="center">
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shuvo339&theme=tokyonight&hide_border=true)
-
+</p>
 **Frontend:**
 
 - React.js
