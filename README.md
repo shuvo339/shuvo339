@@ -1,9 +1,6 @@
 <img src="https://i.ibb.co/F0V32WM/banner.png" />
-# Hi there, I'm Shafiullah Shuvo 👋
 
-Welcome to my GitHub profile! I'm a frontend developer with a passion for creating visually appealing and user-friendly web interfaces. Here's a bit more about me:
-
-## 🚀 About Me
+## ✨ Overview
 
 - 👨‍💻 I'm currently working on enhancing my skills in frontend and backend development.
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB, and Firebase.
