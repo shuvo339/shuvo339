@@ -31,8 +31,8 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/md-shafiullah-shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aarti-rathi-a6031814b/" height="30" width="40" /></a>
-<a href="https://i.ibb.co/2tWh3sm/icons8-facebook-256.png" target="_blank"><img align="center" src="https://i.ibb.co/2tWh3sm/icons8-facebook-256.png" alt="https://www.facebook.com/aarti.rathi.1710" height="50" width="70" /></a>
+<a href="https://www.linkedin.com/in/md-shafiullah-shuvo" target="_blank"><img align="center" src="https://i.ibb.co/Qmkx3nM/icons8-linkedin-256.png" alt="https://www.linkedin.com/in/aarti-rathi-a6031814b/" height="70" width="90" /></a>
+<a href="https://i.ibb.co/2tWh3sm/icons8-facebook-256.png" target="_blank"><img align="center" src="https://i.ibb.co/2tWh3sm/icons8-facebook-256.png" alt="https://www.facebook.com/aarti.rathi.1710" height="70" width="90" /></a>
 </p>
 
 [LinkedIn Profile] (www.linkedin.com/in/md-shafiullah-shuvo)
