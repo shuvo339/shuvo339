@@ -35,6 +35,4 @@
 <a href="https://www.facebook.com/safiullahshuvo" target="_blank"><img align="center" src="https://i.ibb.co/2tWh3sm/icons8-facebook-256.png" alt="https://www.facebook.com/aarti.rathi.1710" height="65" width="80" /></a>
 </p>
 
-[LinkedIn Profile] (www.linkedin.com/in/md-shafiullah-shuvo)
-
 Thanks for visiting my profile!
